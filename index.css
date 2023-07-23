@@ -677,6 +677,12 @@ span {
 
 @media (max-width: 480px) {
 
+ .navbar a {
+		position: relative;
+		display: initial;
+		font-size: 1.4rem;
+		margin: 3rem 0;
+	}
 	.certificates .swiper {
 		width: 400px;
 		height: 380px;
