@@ -595,10 +595,16 @@ span {
 
 }
 
-@media (max-width:850px) {
+@media (max-width:800px) {
 
 	aside {
 		display: none;
+	}
+	.navbar a {
+		position: relative;
+		display: initial;
+		font-size: 2rem;
+		margin: 3rem 0;
 	}
 	.about {
 		padding-top: 10rem;
@@ -642,7 +648,7 @@ span {
 	.navbar a {
 		position: relative;
 		display: initial;
-		font-size: 2rem;
+		font-size: 1.6rem;
 		margin: 3rem 0;
 	}
 
