@@ -627,6 +627,9 @@ span {
 
 @media (max-width: 800px) {
 
+	html {
+		font-size: 50%;
+	}
 	.header {
 		background-color: var(--bg-color);
 		height: 5rem;
@@ -648,7 +651,7 @@ span {
 	.navbar a {
 		position: relative;
 		display: initial;
-		font-size: 1.6rem;
+		font-size: 1.4rem;
 		margin: 3rem 0;
 	}
 
@@ -677,12 +680,6 @@ span {
 
 @media (max-width: 480px) {
 
- .navbar a {
-		position: relative;
-		display: initial;
-		font-size: 1.4rem;
-		margin: 3rem 0;
-	}
 	.certificates .swiper {
 		width: 400px;
 		height: 380px;
