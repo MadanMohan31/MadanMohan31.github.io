@@ -680,6 +680,9 @@ span {
 
 @media (max-width: 480px) {
 
+	.home {
+		padding-right: 10%;
+	}
 	.certificates .swiper {
 		width: 400px;
 		height: 380px;
