@@ -424,7 +424,7 @@ span {
 }
 
 .skills-column:nth-child(1) .skills-content .percentage:nth-child(3) .bar span {
-	width: 70%;
+	width: 80%;
 }
 
 .skills-column:nth-child(2) .skills-content .percentage:nth-child(1) .bar span {
